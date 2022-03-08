@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -80,7 +80,7 @@ return
 :C:@im::Inside Man
 return
 
-:C:@al::Analyst
+:C:@a::Analyst
 return
 
 :C:@ns::Network Specialist
@@ -101,7 +101,7 @@ return
 :C:@bh::Bounty Hunter
 return
 
-:C:@cr::Corrupt Detective
+:C:@cd::Corrupt Detective
 return
 
 :C:@j::Journalist
@@ -175,16 +175,19 @@ return
 
 
 
-:C:wch::I was watched last night
+:C:wch::watched
 return
 
-:C:occ::I was occupied last night
+:C:th::threatened
+return
+
+:C:occ::occupied
 return
 
 :C:vis:: visited me to discuss the hack
 return
 
-:C:dta::no useful data on 
+:C:dt::no useful data on 
 return
 
 :C:ntl::intel on 
