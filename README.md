@@ -1,7 +1,7 @@
 # Untrusted_faster_logs_script
 A clumsy script for the Untrusted game to make writing logs faster with Autohotkey
 
-
+ss
 DdD – D1 `nN1 `nD2 `nN2 `nD3 `nN3 `nD4 `nN4 `nD5 `nN5 `nD6 `nN6 `nD7 `nN7 
 !b – Blue
 !br – Brown
@@ -126,3 +126,4 @@ AR – Add Route
 AL – Alter Logs 
 SU – Set Up
 STC – Snitch to Cops
+
